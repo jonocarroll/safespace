@@ -76,7 +76,7 @@ This will guide you through completing your pull request.
 
 1. Copy the `git` link to this repository by clicking the green 'Code' button near the top of this page
 
-![]()
+![](man/figures/code.png)
 
 2. In RStudio select from the menu File - New Project - Version Control - Git and 
 fill in the `git` link and location to store the code
