@@ -48,6 +48,10 @@ then there's no benefit here for you. I'm interested in helping people who would
 like to contribute to open source packages but aren't yet confident in the pull
 request process. If that's you, then please do contribute.
 
+While not essential, I suggest registering your account to [Hacktoberfest](https://hacktoberfest.com/participation/) 
+where you can claim a digital badge if you submit 4 pull requests that get merged 
+to any repository with the `hacktoberfest` topic (like this one).
+
 ## How To Suggest Changes
 
 There are many ways you could generate a pull request, but here are some that I 
