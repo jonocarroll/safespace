@@ -1,0 +1,14 @@
+Package: safespace
+Type: Package
+Title: Calculates the Jacobian for an invertible matrix
+Version: 0.1.0
+Authors@R: c(
+    person("Jonathan", "Carroll", email = "rpkg@jcarroll.com.au", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-1404-5264"))
+    )
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Imports: 
+    archivedpkg
+Encoding: UTF-8
+LazyData: true
