@@ -80,15 +80,22 @@ This will guide you through completing your pull request.
 
 ### <img src="https://avatars.githubusercontent.com/u/513560?s=48&v=4" height="30px"> Via RStudio
 
-1. Copy the `git` link to this repository by clicking the green 'Code' button near the top of this page
+1. Be logged in to GitHub
+2. 'Fork' this repository to your own account - creating a copy of the code in your 
+account in which you can make changes without impacting the original
+
+![](man/figures/fork.png)
+
+3. Copy the `git` link to the forked repository by clicking the green 'Code' button 
+near the top of the page of your fork
 
 ![](man/figures/code.png)
 
-2. In RStudio select from the menu File - New Project - Version Control - Git and 
+4. In RStudio select from the menu File - New Project - Version Control - Git and 
 fill in the `git` link and location to store the code
-3. Make your changes locally and commit them - these are still local to you and your fork
-4. Push your changes to your fork
-5. At the top of the page for your fork you should either see a prompt to create 
+5. Make your changes locally and commit them - these are still local to you and your fork
+6. Push your changes to your fork
+7. At the top of the page for your fork you should either see a prompt to create 
 a pull request or the 'Contribute' button
 
 ![](man/figures/contribute.png)
