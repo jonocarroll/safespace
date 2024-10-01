@@ -18,6 +18,8 @@ remotes:install_github(jonocarroll/safespace)
 
 ## Motivation
 
+Relevant blog post: https://jcarroll.com.au/2024/10/01/a-safe-space-for-learning-how-to-make-pull-requests/
+
 If you're new to using `git` then it might be seem like making a pull request to someone
 else's project is too complicated or at risk of breaking something. This repository 
 is a _safe space_ where I encourage you to submit a pull request fixing something (
