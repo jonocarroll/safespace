@@ -41,7 +41,7 @@ others, too.
 
 At the start of October 2024, the package is in a broken state and cannot be 
 installed - _can you help_? Throughout October, it may also end up in a broken 
-state (intentially or not) - that's fine.
+state (intentionally or not) - that's fine.
 
 ## Who Can Contribute?
 
