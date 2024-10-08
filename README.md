@@ -1,5 +1,5 @@
 
-# safespace
+# Safespace
 
 <!-- badges: start -->
 <!-- badges: end -->
