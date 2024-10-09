@@ -87,7 +87,11 @@ account in which you can make changes without impacting the original
 ![](man/figures/fork.png)
 
 3. Copy the `git` link to the forked repository by clicking the green 'Code' button 
-near the top of the page of your fork
+near the top of the page of your fork. Choose the HTTPS option 
+
+![](man/figures/codeh.png)
+
+Or the SSH option.
 
 ![](man/figures/code.png)
 
