@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of safespace is to provide safe space for new developers to try out a pull request (particularly fo [Hacktoberfest 2024](https://hacktoberfest.com/participation/)) 
+The goal of safespace is to provide a safe space for new developers to try out a pull request (particularly fo [Hacktoberfest 2024](https://hacktoberfest.com/participation/)) 
 for an R package where they will definitely not break any in-production code.
 
 ## Installation
