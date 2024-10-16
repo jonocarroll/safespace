@@ -5,8 +5,11 @@ Version: 0.1.0
 Authors@R: c(
     person("Jonathan", "Carroll", email = "rpkg@jcarroll.com.au", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-1404-5264"))
     )
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: It provides tools for calculating the Jacobian matrix and its determinant for invertible matrices in multivariable calculus. 
+    It is specifically designed for mathematical, scientific, and statistical applications where the Jacobian is needed to understand 
+    how small changes in input variables impact outputs in vector-valued functions. The package supports efficient and accurate 
+    computation of the Jacobian for nonlinear systems and transformations, and can be integrated into workflows involving optimization, 
+    differential equations, and numerical analysis.
 License: What license is it under?
 Imports: 
     archivedpkg
