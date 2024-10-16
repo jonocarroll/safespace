@@ -3,7 +3,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of the `safespace` package is to provide a safe space for new developers to try out a pull request (particularly fo [Hacktoberfest 2024](https://hacktoberfest.com/participation/)) 
+The goal of the `safespace` repository and package is to provide a safe space for new developers to try out a pull request (particularly fo [Hacktoberfest 2024](https://hacktoberfest.com/participation/)) 
 for an R package where they will definitely not break any in-production code.
 
 ## Installation
@@ -14,7 +14,6 @@ You can install the development version of `safespace` like so:
 # istall.packages(remotes)
 remotes::install_github("jonocarroll/safespace")
 ```
-- *(At the moment this will fail, though, because of a problem with dependency `archivedpkg`)*
 
 ## Motivation
 
