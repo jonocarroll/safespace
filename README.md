@@ -1,19 +1,18 @@
-
 # safespace
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of safespace is to provide a safe space for new developers to try out a pull request (particularly fo [Hacktoberfest 2024](https://hacktoberfest.com/participation/)) 
+The goal of the `safespace` repository and package is to provide a safe space for new developers to try out a pull request (particularly fo [Hacktoberfest 2024](https://hacktoberfest.com/participation/)) 
 for an R package where they will definitely not break any in-production code.
 
 ## Installation
 
-You can install the development version of safespace like so:
+You can install the development version of `safespace` like so:
 
 ``` r
 # istall.packages(remotes)
-remotes:install_github(jonocarroll/safespace)
+remotes::install_github("jonocarroll/safespace")
 ```
 
 ## Motivation
@@ -23,10 +22,10 @@ Relevant blog post: https://jcarroll.com.au/2024/10/01/a-safe-space-for-learning
 If you're new to using `git` then it might be seem like making a pull request to someone
 else's project is too complicated or at risk of breaking something. This repository 
 is a _safe space_ where I encourage you to submit a pull request fixing something (
-there are many intentially borken elements here just waiting for someone to suggest 
+there are many intentionally broken elements here just waiting for someone to suggest 
 fixes for them.) - I will review your pull request ("PR") and provide mentoring if 
 there's anything I think could be done differently. I will then merge the pull 
-reqeust which will count towards your [Hacktoberfest 2024](https://hacktoberfest.com/participation/) tally.
+request which will count towards your [Hacktoberfest 2024](https://hacktoberfest.com/participation/) tally.
 
 I only ask that you try to fix _just one thing_ in each PR; leave some fixes for 
 others, too.
@@ -41,7 +40,7 @@ others, too.
 
 At the start of October 2024, the package is in a broken state and cannot be 
 installed - _can you help_? Throughout October, it may also end up in a broken 
-state (intentially or not) - that's fine.
+state (intentionally or not) - that's fine.
 
 ## Who Can Contribute?
 
