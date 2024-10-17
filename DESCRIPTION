@@ -1,15 +1,13 @@
 Package: safespace
 Type: Package
-Title: Calculates the Jacobian for an invertible matrix
+Title: Learn how to contribute to open source software in a safe place
 Version: 0.1.0
 Authors@R: c(
     person("Jonathan", "Carroll", email = "rpkg@jcarroll.com.au", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-1404-5264"))
     )
-Description: It provides tools for calculating the Jacobian matrix and its determinant for invertible matrices in multivariable calculus. 
-    It is specifically designed for mathematical, scientific, and statistical applications where the Jacobian is needed to understand 
-    how small changes in input variables impact outputs in vector-valued functions. The package supports efficient and accurate 
-    computation of the Jacobian for nonlinear systems and transformations, and can be integrated into workflows involving optimization, 
-    differential equations, and numerical analysis.
+Description: It provides a safe space where beginners interested in learning how to contribute to open source software can start, 
+    without having to worry about making mistakes. Learners practice using a real, but toy package using the R language. It is intended 
+    that at the end, learners are able to contribute pull requests using R, Rstudio, git and github.
 License: What license is it under?
 Imports: 
     archivedpkg
