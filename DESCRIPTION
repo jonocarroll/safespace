@@ -10,7 +10,7 @@ Description: It provides a safe space where beginners interested in learning how
     that at the end, learners are able to contribute pull requests using R, Rstudio, git and github.
 License: What license is it under?
 Imports: 
-    archivedpkg
+
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/jonocarroll/safespace
