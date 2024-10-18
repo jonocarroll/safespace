@@ -1,5 +1,6 @@
 # @export
-add <- function(firstvariablename = "7", secondvariablename) {
+add <- function(firstvariablename = "7", secondvariablename, thirdvariablename) {
+  firstvariablename <- as.numeric(firstvariablename)
   firstvariablename + secondvariablename + thirdvariablename
 }
 
