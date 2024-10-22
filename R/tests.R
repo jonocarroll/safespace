@@ -1,4 +1,4 @@
 #TODO run tests
-test <- func(x) {
+test <- function(x) {
   TRUE
 }
