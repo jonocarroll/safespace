@@ -15,3 +15,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/jonocarroll/safespace
 BugReports: https://github.com/jonocarroll/safespace/issues
+RoxygenNote: 7.3.2
