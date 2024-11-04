@@ -15,7 +15,6 @@ add <- function(firstvariablename = "7", secondvariablename) {
 #'
 #' @examples
 #' subtract(c(10, 10), c(7, 20))
-#' > [1]  3 -10
 subtract <- function(x, y) {
   stopifnot(is.numeric(x), is.numeric(y))
   x - y

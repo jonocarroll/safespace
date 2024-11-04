@@ -19,5 +19,4 @@ Finds the algebraic difference between two numeric vectors.
 }
 \examples{
 subtract(c(10, 10), c(7, 20))
-> [1]  3 -10
 }
