@@ -110,3 +110,9 @@ This will guide you through completing your pull request.
 
 <b>If these instructions are incomplete or you have more questions, feel free to find 
 me on [Mastodon](https://fosstodon.org/@jonocarroll) and ask, or start an [Issue](https://github.com/jonocarroll/safespace/issues) where you can ask questions.</b>
+
+## Want to Contribute Somewhere Else?
+
+Here is a list of R-related Hacktoberfest repositories
+
+https://github.com/topics/hacktoberfest?l=r
