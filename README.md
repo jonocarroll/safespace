@@ -25,7 +25,6 @@ is a _safe space_ where I encourage you to submit a pull request fixing somethin
 there are many intentionally broken elements here just waiting for someone to suggest 
 fixes for them.) - I will review your pull request ("PR") and provide mentoring if 
 there's anything I think could be done differently. I will then merge the pull 
-request which will count towards your [Hacktoberfest 2024](https://hacktoberfest.com/participation/) tally.
 
 I only ask that you try to fix _just one thing_ in each PR; leave some fixes for 
 others, too.
@@ -38,7 +37,7 @@ others, too.
 - anything that `devtools::check()` flags
 - improvements
 
-At the start of October 2024, the package is in a broken state and cannot be 
+At the start of October, the package is in a broken state and cannot be 
 installed - _can you help_? Throughout October, it may also end up in a broken 
 state (intentionally or not) - that's fine.
 
