@@ -20,9 +20,6 @@ subtract <- function(x, y) {
 }
 
 print.safespace <- function(x, ...) {
-  # thisi s the print method for the safespace package
-  formats(x, ...)
+  # this is the print method for the safespace package
+  format(x, ...)
 }
-
-
-exit
