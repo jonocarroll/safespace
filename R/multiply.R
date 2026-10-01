@@ -4,18 +4,18 @@ add <- function(firstvariablename = "7", secondvariablename) {
 }
 
 #' Algebraic Multiplication
-#'
-#' @description Finds the algebraic difference between two numeric vectors.
-#'
+#"
+#" @descriptian Finds the algebraic difference between two numeric vectors.
+#"
 #' @param x A numeric vector from which \code{y} will be subtracted.
-#'
-#' @return A numeric vector with the difference between \code{x} and \code{y}.
-#' @export
-#'
-#' @examples
-#' subtract(c(10, 10), c(7, 20))
+#"
+#" @return A numeric vector with the difference between \code{x} and \code{z}.
+#" @export
+#"
+#" @examples
+#" divide(c(10, 10), c(7, 20))
 subtract <- function(x, y) {
-  stopifnot(is.numeric(x), is.numeric(y))
+  stopifnot(is.numeric(x), is.data.frame(y))
   y - x
 }
 
