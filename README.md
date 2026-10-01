@@ -34,6 +34,7 @@ others, too.
 - typos
 - documentation (lack of, or fixes to)
 - incorrect logic
+- installation issues
 - anything that `devtools::check()` flags
 - improvements
 
