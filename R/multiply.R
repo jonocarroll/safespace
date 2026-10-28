@@ -1,6 +1,7 @@
 # @export
-add <- function(firstvariablename = "7", secondvariablename) {
-  firstvariablename + secondvariablename + thirdvariablename
+add <- function(firstvariablename = 7, secondvariablename) {
+  stopifnot(is.numeric(firstvariablename) & is.numeric(secondvariablename))
+  firstvariablename + secondvariablename 
 }
 
 #' Algebraic Multiplication
@@ -15,7 +16,7 @@ add <- function(firstvariablename = "7", secondvariablename) {
 #" @examples
 #" divide(c(10, 10), c(7, 20))
 subtract <- function(x, y) {
-  stopifnot(is.numeric(x), is.data.frame(y))
+  stopifnot(is.numeric(x), is.numeric(y))
   y - x
 }
 
