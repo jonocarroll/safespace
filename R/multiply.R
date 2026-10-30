@@ -1,6 +1,7 @@
 # @export
 add <- function(firstvariablename = 7, secondvariablename) {
-  stopifnot(is.numeric(firstvariablename) & is.numeric(secondvariablename))
+  stopifnot(is.numeric(firstvariablename))
+  stopifnot(is.numeric(secondvariablename))
   firstvariablename + secondvariablename 
 }
 
